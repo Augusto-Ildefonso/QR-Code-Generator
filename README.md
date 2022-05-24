@@ -21,7 +21,7 @@ And then your QR Code will be created:
 
 ## License
 
-QR-Code-Generator is [MIT Licensed](https://github.com/Augusto-Ildefonso/QR-Code-Generator/blob/main/LICENSE.txt).
+QR-Code-Generator is [MIT Licensed](https://github.com/Augusto-Ildefonso/QR-Code-Generator/blob/main/LICENSE).
 
 ## Libraries
 
