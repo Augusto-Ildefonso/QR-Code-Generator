@@ -2,7 +2,6 @@
 
 ![License](https://img.shields.io/github/license/Augusto-Ildefonso/QR-Code-Generator?color=red)
 ![Release Date](https://img.shields.io/badge/release%20date-may-brightgreen)
-![GitHub Stars](https://img.shields.io/github/stars/Augusto-Ildefonso/QR-Code-Generator?style=social)
 
 A [Python](https://www.python.org/) application that generates QR Code.
 
